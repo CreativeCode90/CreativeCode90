@@ -14,10 +14,9 @@
 </p>
 
 <h3 style="color: purple;">Languages and Tools:</h3>
-![Programming languages](Group 1.svg) <!-- Update with correct image URL -->
 
 <!-- Programming Languages Section -->
-<p>Programming Languages</p>
+<h3>Programming Languages</h3>
 <div>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -36,7 +35,7 @@
   </a>
 </div>
 
-<p>Frontend Development</p>
+<h3>Frontend Development</h3>
 <div>
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -52,7 +51,7 @@
   </a>
 </div>
 
-<p>Backend Development</p>
+<h3>Backend Development</h3>
 <div>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -65,7 +64,7 @@
   </a>
 </div>
 
-<p>Mobile App Development</p>
+<h3>Mobile App Development</h3>
 <div>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
@@ -82,7 +81,7 @@
   </a>
 </div>
 
-<p>Software</p>
+<h3>Software</h3>
 <div>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
@@ -92,7 +91,7 @@
   </a>
 </div>
 
-<p>Other</p>
+<h3>Other</h3>
 <div>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>

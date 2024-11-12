@@ -101,9 +101,5 @@
   </a>
 </div>
 
-<!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=creativecode90&show_icons=true&locale=en" alt="creativecode90" /></p>
-<div> 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=creativecode90&show_icons=true&locale=en&layout=compact" alt="creativecode90" /></p>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=creativecode90&" alt="creativecode90" /></p>
